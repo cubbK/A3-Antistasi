@@ -1,0 +1,2 @@
+- clone repo
+- duplicate a folder in Map-Templates and rename from ex .Altis to .gm_weferling_winter
